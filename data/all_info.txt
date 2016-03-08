@@ -1,0 +1,288 @@
+phage	num_hosts	min_host_similarity	kk_grp	family	order	nucleotide_level_divs	illumina_genome_len	bray_clusters_eps0.9	euclidean_clusters_eps15	eval	term_blast_ld	term_blast_sd	term_clust	term_ortho_sd	term_ortho_ld	cov_category	new_groups_sept
+1.003.O.	2	76.7784186493631	1	 Podoviridae 	 Caudovirales 	1	41891	1	1	6e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.004.O.	5	99.624434239562	14	 Myoviridae 	 Caudovirales 	2	42511	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	multiple_coverage_peaks	12/14
+1.005.O.	1	100	7	 Podoviridae 	 Caudovirales 	3	50301	3	3	1e-60	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	short_internal_peak	7
+1.007.O.	1	100	1	 Myoviridae 	 Caudovirales 	4	49244	4	4	3e-65	headful/Sf6	Headful	terminase7	NA	NA	multiple_coverage_peaks	1a
+1.008.O.	36	73.5705940285178	15	 Tectivirus	 Tectiviridae	5	10579	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.009.O.	1	100	7	 Podoviridae 	 Caudovirales 	6	44443	0	6	2e-57	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	NA	7
+1.011.O.	40	73.5705940285178	15	 Tectivirus	 Tectiviridae	5	10579	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.012.O.	6	75.3096374511435	4	 Siphoviridae 	 Caudovirales 	7	59979	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.013.O.	2	98.2937835087337	9	 Myoviridae 	 Caudovirales 	8	44457	7	8	1e-80	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	multiple_coverage_peaks	9
+1.015.O.	1	100	8	 Podoviridae 	 Caudovirales 	9	42586	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	short_internal_peak	8
+1.016.O.	2	98.3433123772409	1	 Siphoviridae 	 Caudovirales 	10	48078	9	10	3e-93	headful/Sf6	Headful	terminase22	Headful	headful/Sf6	long_internal_peak	1b
+1.017.O.	4	84.4857396522124	7	 Siphoviridae 	 Caudovirales 	11	51290	10	11	2e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.020.O.	2	84.806543135029	15	 Tectivirus	 Tectiviridae	12	10636	5	5	NA	NA	NA	NA	NA	NA	NA	15
+1.021.A.	1	100	11	 Podoviridae 	 Caudovirales 	13	43743	11	12	NA	NA	NA	terminase31	NA	NA	long_internal_peak	11
+1.021.B.	1	100	11	 Podoviridae 	 Caudovirales 	13	43743	11	12	NA	NA	NA	terminase31	NA	NA	short_internal_peak	11
+1.021.C.	1	100	11	 Podoviridae 	 Caudovirales 	13	43743	11	12	NA	NA	NA	terminase31	NA	NA	short_internal_peak	11
+1.022.O.	1	100	4	 Siphoviridae 	 Caudovirales 	14	62440	6	7	8e-20	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.023.O.	1	100	4	 Siphoviridae 	 Caudovirales 	15	59872	6	7	9e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.024.O.	1	100	4	 Siphoviridae 	 Caudovirales 	16	58892	6	7	1e-18	headful/Sf6	Headful	terminase1	NA	NA	short_internal_peak	4
+1.025.O.	6	99.0579725945915	5	 Podoviridae 	 Caudovirales 	17	75797	12	13	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	NA	5
+1.026.O.	6	99.0579725945915	5	 Podoviridae 	 Caudovirales 	17	75880	12	13	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.027.O.	19	85.5888274903789	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.028.O.	3	99.3813016118617	17	 Myoviridae 	 Caudovirales 	19	31704	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	NA	17
+1.029.O.	1	100	1	 Myoviridae 	 Caudovirales 	20	46513	0	16	2e-39	NoGroup	NoGroup	terminase8	NA	NA	shifts_in_coverage	1b
+1.030.O.	1	100	7	 Podoviridae 	 Caudovirales 	21	45827	3	3	6e-71	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.031.O.	1	100	3	 Myoviridae 	 Caudovirales 	22	152942	0	6	NA	NA	NA	terminase38	NA	NA	multiple_coverage_peaks	2a
+1.032.O.	1	100	4	 Siphoviridae 	 Caudovirales 	23	60399	6	7	4e-21	headful/Sf6	Headful	terminase1	NA	NA	long_internal_peak	4
+1.033.O.	2	99.4773518842903	4	 Myoviridae 	 Caudovirales 	24	61206	6	7	4e-18	headful/Sf6	Headful	terminase1	NA	NA	long_internal_peak	4
+1.034.O.	19	94.4383983074352	8	 Podoviridae 	 Caudovirales 	25	44398	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.034.X.	16	94.4383983074352	8	 Podoviridae 	 Caudovirales 	25	44383	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	short_internal_peak	8
+1.036.O.	1	100	1	 Podoviridae 	 Caudovirales 	26	40172	1	1	4e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.037.O.	6	85.0082782911148	14	 Myoviridae 	 Caudovirales 	2	43111	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	cos_pattern	12/14
+1.038.O.	1	100	1	 Myoviridae 	 Caudovirales 	27	49567	9	10	2e-40	NoGroup	NoGroup	terminase8	NA	NA	shifts_in_coverage	1b
+1.039.O.	2	99.5204342627475	1	 Podoviridae 	 Caudovirales 	28	40972	1	1	2e-58	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.040.O.	36	81.4048195848826	15	 Tectivirus	 Tectiviridae	5	10579	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.042.O.	1	100	1	 Myoviridae 	 Caudovirales 	29	49730	9	10	6e-92	headful/Sf6	Headful	terminase22	Headful	headful/Sf6	even_coverage	1b
+1.043.O.	32	81.4048195848826	15	 Tectivirus	 Tectiviridae	30	10272	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.044.O.	34	81.4048195848826	15	 Tectivirus	 Tectiviridae	30	10272	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.046.O.	1	100	4	 Siphoviridae 	 Caudovirales 	31	62503	6	7	2e-16	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.047.O.	1	100	1	 Siphoviridae 	 Caudovirales 	32	46106	15	17	2e-85	headful/933W	Headful	terminase6	Headful	headful/933W	even_coverage	1a
+1.048.O.	31	81.4048195848826	15	 Tectivirus	 Tectiviridae	30	10447	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.049.O.	2	91.000922733233	12	NA	NA	33	45021	16	18	3e-114	Cos/lambda	Cos	terminase26	NA	NA	even_coverage	12/14
+1.050.O.	2	91.000922733233	12	NA	NA	33	45285	16	18	5e-114	Cos/lambda	Cos	terminase26	NA	NA	multiple_coverage_peaks	12/14
+1.052.A.	3	99.1074567772549	1	 Myoviridae 	 Caudovirales 	34	42889	17	6	4e-27	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	1c
+1.054.O.	1	100	1	 Myoviridae 	 Caudovirales 	35	41774	0	16	9e-43	NoGroup	NoGroup	terminase8	NA	NA	even_coverage	1b
+1.055.O.	1	100	12	 Myoviridae 	 Caudovirales 	36	47199	16	18	5e-114	Cos/lambda	Cos	terminase26	NA	NA	shifts_in_coverage	12/14
+1.056.O.	7	85.0082782911148	14	 Myoviridae 	 Caudovirales 	2	47054	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	cos_pattern	12/14
+1.057.O.	24	81.6924375811977	15	 Tectivirus	 Tectiviridae	30	10273	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.060.A.	1	100	1	 Siphoviridae 	 Caudovirales 	37	41105	15	17	2e-128	5-cos/P2	Cos	terminase13	NA	NA	even_coverage	1a
+1.061.O.	3	99.3998355022085	1	 Podoviridae 	 Caudovirales 	38	41667	1	1	2e-62	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.062.O.	36	81.4048195848826	15	 Tectivirus	 Tectiviridae	5	10579	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.063.O.	1	100	2	 Myoviridae 	 Caudovirales 	39	128641	18	0	NA	NA	NA	terminase14	NA	NA	long_internal_peak	2
+1.064.O.	2	100	6	 Siphoviridae 	 Caudovirales 	40	36584	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	long_internal_peak	6
+1.066.O.	6	99.624434239562	14	 Myoviridae 	 Caudovirales 	2	47053	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	cos_pattern	12/14
+1.067.O.	1	100	1	 Podoviridae 	 Caudovirales 	41	40955	1	1	1e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.068.O.	6	99.624434239562	14	 Myoviridae 	 Caudovirales 	2	47038	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	cos_pattern	12/14
+1.069.O.	32	81.6924375811977	15	 Tectivirus	 Tectiviridae	5	10579	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.070.O.	2	97.0023287147506	8	 Podoviridae 	 Caudovirales 	42	44087	20	20	7e-10	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.071.A.	2	98.3433123772409	1	 Siphoviridae 	 Caudovirales 	43	48114	9	10	3e-93	headful/Sf6	Headful	terminase22	Headful	headful/Sf6	long_internal_peak	1b
+1.072.O.	6	99.624434239562	14	 Myoviridae 	 Caudovirales 	2	43788	2	2	2e-57	3-cos/HK97	Cos	terminase23	NA	NA	cos_pattern	12/14
+1.074.O.	1	100	6	 Siphoviridae 	 Caudovirales 	44	36922	19	19	1e-36	5-cos/P2	Cos	terminase9	NA	NA	even_coverage	6
+1.075.O.	3	99.4105799727471	7	 Siphoviridae 	 Caudovirales 	11	51290	10	11	2e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.076.O.	1	100	9	 Myoviridae 	 Caudovirales 	45	47914	21	21	6e-31	NoGroup	NoGroup	terminase8	NA	NA	shifts_in_coverage	9a
+1.077.O.	2	97.0023287147506	8	 Podoviridae 	 Caudovirales 	42	44047	20	20	7e-10	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.079.O.	1	100	1	 Podoviridae 	 Caudovirales 	46	42375	1	1	3e-63	headful/Sf6	Headful	terminase16	NA	NA	shifts_in_coverage	1
+1.080.O.	35	75.9762045288419	15	 Tectivirus	 Tectiviridae	30	10046	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.081.O.	2	89.3942918285223	3	 Myoviridae 	 Caudovirales 	47	239318	22	22	0	headful/T4	Headful	terminase15	Headful	headful/T4	long_internal_peak	2b
+1.082.O.	1	100	6	 Siphoviridae 	 Caudovirales 	48	35810	19	19	1e-36	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.083.O.	1	100	12	 Siphoviridae 	 Caudovirales 	49	45120	16	18	2e-116	Cos/lambda	Cos	terminase26	NA	NA	shifts_in_coverage	12/14
+1.084.O.	1	100	2	 Myoviridae 	 Caudovirales 	50	141906	23	0	NA	NA	NA	terminase14	NA	NA	short_internal_peak	2
+1.085.O.	2	76.5575194212746	6	 Siphoviridae 	 Caudovirales 	51	37820	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.086.O.	1	100	7	 Siphoviridae 	 Caudovirales 	52	50835	3	3	4e-59	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.087.A.	3	96.5399031261084	7	 Siphoviridae 	 Caudovirales 	53	45674	3	3	3e-66	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.088.O.	1	100	4	 Siphoviridae 	 Caudovirales 	54	60385	6	7	1e-18	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.089.O.	4	99.3814573684643	4	 Siphoviridae 	 Caudovirales 	7	59851	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.090.B.	1	100	1	 Siphoviridae 	 Caudovirales 	55	41868	1	1	2e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.091.O.	1	100	1	 Podoviridae 	 Caudovirales 	56	43134	1	1	6e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+1.093.O.	3	99.4105799727471	7	 Siphoviridae 	 Caudovirales 	11	51290	10	11	2e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.094.O.	3	99.4105799727471	7	 Siphoviridae 	 Caudovirales 	11	51290	10	11	2e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.095.O.	36	81.4048195848826	15	 Tectivirus	 Tectiviridae	30	10436	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.097.O.	1	100	5	 Podoviridae 	 Caudovirales 	57	76918	12	0	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	shifts_in_coverage	5
+1.098.O.	3	99.5999941653154	4	 Siphoviridae 	 Caudovirales 	7	59851	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.100.O.	3	99.3355497178476	7	 Podoviridae 	 Caudovirales 	58	51268	3	3	6e-68	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.101.O.	2	99.1881223516173	2	 Myoviridae 	 Caudovirales 	59	130250	23	0	5e-05	short DTR/T7	DTR	terminase14	NA	NA	short_internal_peak	2
+1.102.O.	35	81.6924375811977	15	 Tectivirus	 Tectiviridae	30	10447	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.103.O.	3	95.7966295789017	4	 Siphoviridae 	 Caudovirales 	60	61748	6	7	4e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.104.O.	1	100	4	 Siphoviridae 	 Caudovirales 	61	60990	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.105.O.	1	100	1	 Myoviridae 	 Caudovirales 	62	49123	4	4	1e-67	headful/Sf6	Headful	terminase7	NA	NA	long_internal_peak	1a
+1.106.O.	1	100	1	 Myoviridae 	 Caudovirales 	63	47070	4	4	1e-64	headful/Sf6	Headful	terminase7	NA	NA	even_coverage	1a
+1.107.A.	8	81.6924375811977	15	 Tectivirus	 Tectiviridae	30	10447	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.107.B.	26	81.6924375811977	15	 Tectivirus	 Tectiviridae	30	10447	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.107.C.	22	81.6924375811977	15	 Tectivirus	 Tectiviridae	30	10447	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.108.O.	2	100	6	 Siphoviridae 	 Caudovirales 	40	36584	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	long_internal_peak	6
+1.110.O.	1	100	6	 Siphoviridae 	 Caudovirales 	64	37556	19	19	5e-77	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	even_coverage	6
+1.111.A.	1	100	18	 Myoviridae 	 Caudovirales 	65	40209	24	23	8e-143	Cos/lambda	Cos	terminase28	Cos	Cos/lambda	cos_pattern	18
+1.111.B.	1	100	18	 Myoviridae 	 Caudovirales 	65	40209	24	23	8e-143	Cos/lambda	Cos	terminase28	Cos	Cos/lambda	cos_pattern	18
+1.112.O.	1	100	1	 Myoviridae 	 Caudovirales 	66	48149	9	10	3e-93	headful/Sf6	Headful	terminase22	Headful	headful/Sf6	even_coverage	1b
+1.113.A.	1	100	1	 Siphoviridae 	 Caudovirales 	67	44150	15	17	2e-90	headful/933W	Headful	terminase6	Headful	headful/933W	shifts_in_coverage	1a
+1.115.A.	1	100	6	 Siphoviridae 	 Caudovirales 	68	37416	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.115.B.	1	100	6	 Siphoviridae 	 Caudovirales 	68	37416	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.116.O.	2	99.0262856786367	6	 Siphoviridae 	 Caudovirales 	69	36314	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.117.O.	12	94.424665518641	13	 Siphoviridae 	 Caudovirales 	70	55794	25	24	NA	NA	NA	terminase29	NA	NA	long_internal_peak	13
+1.118.A.	4	99.3814573684643	4	 Siphoviridae 	 Caudovirales 	71	60458	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.118.B.	1	100	4	 Siphoviridae 	 Caudovirales 	71	60458	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.119.O.	5	99.3914199994238	1	 Siphoviridae 	 Caudovirales 	72	44527	26	25	2e-93	headful/Sf6	Headful	terminase24	NA	NA	shifts_in_coverage	1
+1.121.O.	2	74.8525188990682	2	 Myoviridae 	 Caudovirales 	73	145590	18	0	NA	NA	NA	terminase14	NA	NA	shifts_in_coverage	2
+1.122.A.	1	100	9	 Myoviridae 	 Caudovirales 	74	44523	7	8	1e-35	NoGroup	NoGroup	terminase8	NA	NA	shifts_in_coverage	9
+1.122.B.	1	100	9	 Myoviridae 	 Caudovirales 	74	44523	7	8	1e-35	NoGroup	NoGroup	terminase8	NA	NA	long_internal_peak	9
+1.123.O.	1	100	1	 Siphoviridae 	 Caudovirales 	75	46071	0	6	1e-84	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	even_coverage	1c
+1.124.O.	2	98.9456089882741	7	 Myoviridae 	 Caudovirales 	76	47604	3	3	4e-62	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.125.O.	38	81.6924375811977	15	 Tectivirus	 Tectiviridae	5	10578	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.126.O.	1	100	NoGroup	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	21
+1.127.O.	5	99.3914199994238	1	 Siphoviridae 	 Caudovirales 	77	44915	26	25	2e-93	headful/Sf6	Headful	terminase24	NA	NA	even_coverage	1
+1.131.O.	1	100	6	 Siphoviridae 	 Caudovirales 	78	37933	19	19	2e-163	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.132.O.	1	100	6	 Siphoviridae 	 Caudovirales 	79	36926	19	19	3e-36	5-cos/P2	Cos	terminase9	NA	NA	even_coverage	6
+1.133.O.	1	100	6	 Podoviridae 	 Caudovirales 	80	37087	19	19	2e-36	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.134.O.	1	100	6	 Siphoviridae 	 Caudovirales 	81	36379	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.135.O.	1	100	1	 Siphoviridae 	 Caudovirales 	82	41918	27	25	7e-77	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	1
+1.136.O.	4	98.699999717133	17	 Myoviridae 	 Caudovirales 	19	21396	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+1.137.O.	2	99.5871633375659	1	 Siphoviridae 	 Caudovirales 	83	37958	26	25	2e-77	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	long_internal_peak	1
+1.138.O.	3	95.3592923185752	11	NA	NA	84	32510	28	26	9e-24	headful/933W	Headful	terminase33	NA	NA	short_internal_peak	11
+1.139.A.	15	94.4383983074352	8	 Podoviridae 	 Caudovirales 	25	43893	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.139.B.	16	75.0176302393866	8	 Podoviridae 	 Caudovirales 	25	44094	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.141.A.	34	81.0763657141695	15	 Tectivirus	 Tectiviridae	30	10047	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.142.O.	6	99.2964488686429	17	 Myoviridae 	 Caudovirales 	19	30434	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	16
+1.143.O.	5	99.3914199994238	1	 Siphoviridae 	 Caudovirales 	72	44527	26	25	2e-93	headful/Sf6	Headful	terminase24	NA	NA	shifts_in_coverage	1
+1.144.O.	1	100	1	 Myoviridae 	 Caudovirales 	85	44418	0	25	2e-58	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	even_coverage	1
+1.147.O.	2	98.6207854174545	6	 Siphoviridae 	 Caudovirales 	86	37360	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.148.O.	2	96.4294117313923	6	 Siphoviridae 	 Caudovirales 	87	36789	19	19	8e-164	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.149.O.	1	100	1	 Myoviridae 	 Caudovirales 	88	48481	4	4	3e-78	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.150.O.	6	99.0579725945915	5	 Podoviridae 	 Caudovirales 	17	75796	12	13	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.151.O.	1	100	1	 Siphoviridae 	 Caudovirales 	89	44307	0	6	3e-141	5-cos/P2	Cos	terminase13	NA	NA	short_internal_peak	1d
+1.152.O.	6	99.0579725945915	5	 Podoviridae 	 Caudovirales 	17	75798	12	13	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.154.O.	1	100	1	 Myoviridae 	 Caudovirales 	90	37136	17	6	3e-28	NoGroup	NoGroup	terminase8	NA	NA	cos_pattern	1c
+1.155.O.	1	100	16	 Podoviridae 	 Caudovirales 	91	29029	29	6	2e-14	headful/Sf6	Headful	terminase34	NA	NA	shifts_in_coverage	16
+1.156.O.	6	99.2964488686429	17	 Myoviridae 	 Caudovirales 	19	31617	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+1.157.O.	2	98.92054136172	6	 Siphoviridae 	 Caudovirales 	92	35855	19	19	3e-31	5-cos/P2	Cos	terminase9	NA	NA	even_coverage	6
+1.158.O.	3	99.3355497178476	7	 Podoviridae 	 Caudovirales 	93	46507	3	3	6e-68	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	short_internal_peak	7
+1.159.O.	3	99.3813016118617	17	 Myoviridae 	 Caudovirales 	19	31617	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+1.160.O.	1	100	4	 Siphoviridae 	 Caudovirales 	94	60734	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.161.O.	1	100	2	 Myoviridae 	 Caudovirales 	95	140668	30	0	NA	NA	NA	terminase14	NA	NA	shifts_in_coverage	2
+1.162.O.	2	98.6207854174545	6	 Siphoviridae 	 Caudovirales 	86	37360	19	19	1e-155	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.164.O.	1	100	7	 Podoviridae 	 Caudovirales 	96	48235	3	3	2e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.165.O.	1	100	6	 Siphoviridae 	 Caudovirales 	97	37046	19	19	1e-163	5-cos/P2	Cos	terminase13	NA	NA	shifts_in_coverage	6
+1.166.O.	1	100	16	NA	NA	98	21800	31	6	2e-14	headful/Sf6	Headful	terminase34	NA	NA	even_coverage	16
+1.167.O.	2	95.9594197351815	6	 Siphoviridae 	 Caudovirales 	99	35811	19	19	1e-36	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.168.O.	1	100	6	 Siphoviridae 	 Caudovirales 	100	37551	19	19	4e-36	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.169.O.	3	96.2576126259772	5	 Podoviridae 	 Caudovirales 	101	72290	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	even_coverage	5
+1.170.O.	1	100	2	 Myoviridae 	 Caudovirales 	102	133692	18	0	NA	NA	NA	terminase14	NA	NA	no_pattern	2
+1.171.O.	19	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	60216	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.172.O.	2	99.0262856786367	6	 Siphoviridae 	 Caudovirales 	69	36314	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.173.O.	1	100	1	 Myoviridae 	 Caudovirales 	103	48063	4	4	5e-67	headful/Sf6	Headful	terminase7	NA	NA	even_coverage	1a
+1.174.O.	2	76.4431860120028	7	 Siphoviridae 	 Caudovirales 	104	47063	3	3	8e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	long_internal_peak	7
+1.175.O.	3	99.3355497178476	7	 Podoviridae 	 Caudovirales 	93	49066	3	3	3e-68	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.176.O.	2	98.5987211800923	6	 Siphoviridae 	 Caudovirales 	105	36463	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.177.O.	1	100	1	 Siphoviridae 	 Caudovirales 	106	45439	33	25	1e-77	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	1
+1.178.O.	1	100	1	 Siphoviridae 	 Caudovirales 	107	39934	27	25	6e-91	headful/Sf6	Headful	terminase24	NA	NA	long_internal_peak	1
+1.179.O.	1	100	11	 Bacteriophage PA11 	 unclassified dsDNA phages	108	31498	28	26	1e-20	headful/933W	Headful	terminase33	NA	NA	short_internal_peak	11
+1.181.O.	1	100	7	 Siphoviridae 	 Caudovirales 	109	50228	3	3	2e-59	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.182.O.	2	96.9078538590622	6	 Siphoviridae 	 Caudovirales 	110	36910	0	0	8e-14	headful/T4	Headful	terminase44	NA	NA	even_coverage	6
+1.183.O.	1	100	9	 Podoviridae 	 Caudovirales 	111	37411	34	6	1e-14	headful/933W	Headful	terminase39	NA	NA	short_internal_peak	9b
+1.184.A.	1	100	9	 Podoviridae 	 Caudovirales 	112	33272	34	6	7e-35	headful/Sf6	Headful	terminase22	Headful	headful/Sf6	short_internal_peak	9b
+1.185.O.	2	98.9456089882741	11	 Podoviridae 	 Caudovirales 	113	43397	11	12	NA	NA	NA	terminase31	NA	NA	long_internal_peak	11
+1.186.O.	2	97.7434880281943	1	 Myoviridae 	 Caudovirales 	114	48643	4	4	2e-64	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.187.O.	1	100	2	 Myoviridae 	 Caudovirales 	115	133254	30	0	NA	NA	NA	terminase14	NA	NA	short_internal_peak	2
+1.188.A.	4	95.7280140279298	5	 Podoviridae 	 Caudovirales 	101	72305	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.188.B.	4	95.7280140279298	5	 Podoviridae 	 Caudovirales 	101	72305	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.188.C.	4	95.7280140279298	5	 Podoviridae 	 Caudovirales 	101	72305	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	shifts_in_coverage	5
+1.189.B.	1	100	6	 Siphoviridae 	 Caudovirales 	116	36855	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	even_coverage	6
+1.189.C.	2	76.221843675445	6	 Siphoviridae 	 Caudovirales 	116	36855	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	shifts_in_coverage	6
+1.189.O.	1	100	6	 Siphoviridae 	 Caudovirales 	116	36855	19	19	3e-89	short DTR/T7	DTR	terminase18	NA	NA	shifts_in_coverage	6
+1.190.O.	3	96.1472338039667	16	NA	NA	98	21785	31	6	1e-14	headful/Sf6	Headful	terminase34	NA	NA	even_coverage	16
+1.191.O.	1	100	7	 Siphoviridae 	 Caudovirales 	117	48354	3	3	8e-62	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.193.O.	1	100	2	 Myoviridae 	 Caudovirales 	118	132560	30	0	NA	NA	NA	terminase14	NA	NA	short_internal_peak	2
+1.194.O.	20	85.5888274903789	4	 Siphoviridae 	 Caudovirales 	18	59294	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.195.O.	18	85.5888274903789	4	 Siphoviridae 	 Caudovirales 	119	59738	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.196.O.	18	85.5888274903789	4	 Siphoviridae 	 Caudovirales 	18	59414	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.197.A.	1	100	1	 Siphoviridae 	 Caudovirales 	120	44587	15	17	2e-61	headful/933W	Headful	terminase6	Headful	headful/933W	shifts_in_coverage	1a
+1.198.A.	1	100	1	 Siphoviridae 	 Caudovirales 	121	44472	27	28	3e-14	NoGroup	NoGroup	terminase25	NA	NA	even_coverage	1
+1.198.B.	1	100	1	 Siphoviridae 	 Caudovirales 	121	44343	27	28	NA	NA	NA	terminase25	NA	NA	even_coverage	1
+1.199.A.	1	100	1	 Myoviridae 	 Caudovirales 	122	48312	4	4	3e-67	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.199.B.	1	100	1	 Myoviridae 	 Caudovirales 	122	48312	4	4	3e-67	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.200.O.	18	85.5888274903789	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.201.B.	1	100	7	 Siphoviridae 	 Caudovirales 	123	50506	3	3	6e-67	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.202.O.	2	98.3966361597278	17	 Myoviridae 	 Caudovirales 	124	32014	0	6	0	5-cos/P2	Cos	terminase17	Cos	5-cos/P2	cos_pattern	17a
+1.204.O.	2	99.3881233902555	11	 Podoviridae 	 Caudovirales 	125	44168	0	6	2e-129	short DTR/T7	DTR	terminase10	DTR	short DTR/T7	short_internal_peak	11a
+1.205.O.	1	100	7	 Siphoviridae 	 Caudovirales 	126	57861	0	6	0	headful/933W	Headful	terminase6	Headful	headful/933W	shifts_in_coverage	9b
+1.206.O.	2	98.5920152383146	6	 Siphoviridae 	 Caudovirales 	127	37551	19	19	4e-29	5-cos/P2	Cos	terminase9	NA	NA	long_internal_peak	6
+1.207.B.	11	94.424665518641	13	 Siphoviridae 	 Caudovirales 	70	55793	25	24	NA	NA	NA	terminase29	NA	NA	long_internal_peak	13
+1.208.B.	1	100	8	 Podoviridae 	 Caudovirales 	128	48927	35	29	3e-05	short DTR/T7	DTR	terminase11	NA	NA	short_internal_peak	8
+1.209.O.	10	94.6028593163239	8	 Podoviridae 	 Caudovirales 	25	43712	8	9	1e-11	short DTR/T7	DTR	terminase11	NA	NA	cos_pattern	8
+1.210.O.	1	100	9	 Siphoviridae 	 Caudovirales 	129	48224	21	21	9e-78	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	9a
+1.211.A.	1	100	9	 Podoviridae 	 Caudovirales 	130	37169	34	6	3e-15	headful/933W	Headful	terminase39	NA	NA	short_internal_peak	9b
+1.211.B.	1	100	9	 Podoviridae 	 Caudovirales 	130	37169	34	6	3e-15	headful/933W	Headful	terminase39	NA	NA	short_internal_peak	9b
+1.213.O.	1	100	1	 Siphoviridae 	 Caudovirales 	131	42443	26	25	4e-69	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	1
+1.214.O.	1	100	9	 Podoviridae 	 Caudovirales 	132	44205	7	8	1e-80	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	9
+1.214.Y.	1	100	NoGroup	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.215.A.	26	64.3177518440576	10	 Siphoviridae 	 Caudovirales 	133	80834	36	30	NA	NA	NA	terminase38	NA	NA	short_internal_peak	10
+1.215.B.	22	81.9312202203816	10	 Siphoviridae 	 Caudovirales 	133	80834	36	30	NA	NA	NA	terminase38	NA	NA	shifts_in_coverage	10
+1.216.O.	1	100	1	 Siphoviridae 	 Caudovirales 	134	41359	26	25	8e-77	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	even_coverage	1
+1.217.O.	8	82.3840941751771	17	 Myoviridae 	 Caudovirales 	19	26912	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+1.217.Y.	6	99.2964488686429	NoGroup	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.219.O.	5	98.699999717133	17	 Myoviridae 	 Caudovirales 	19	31617	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+1.223.O.	1	100	7	 Podoviridae 	 Caudovirales 	135	49535	3	3	1e-61	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.224.A.	3	96.2741583836267	5	 Podoviridae 	 Caudovirales 	101	71915	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.225.O.	1	100	7	 Podoviridae 	 Caudovirales 	136	52615	3	3	2e-59	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	even_coverage	7
+1.226.O.	1	100	6	 Siphoviridae 	 Caudovirales 	137	35655	19	19	2e-36	5-cos/P2	Cos	terminase9	NA	NA	even_coverage	6
+1.228.O.	2	98.92054136172	6	 Siphoviridae 	 Caudovirales 	138	36667	19	19	3e-31	5-cos/P2	Cos	terminase9	NA	NA	long_internal_peak	6
+1.231.O.	5	99.3914199994238	1	 Siphoviridae 	 Caudovirales 	72	44527	26	25	2e-93	headful/Sf6	Headful	terminase24	NA	NA	long_internal_peak	1
+1.232.O.	1	100	1	 Podoviridae 	 Caudovirales 	139	56736	0	6	2e-08	headful/933W	Headful	terminase44	NA	NA	long_internal_peak	9b
+1.233.A.	1	100	6	 Siphoviridae 	 Caudovirales 	140	36823	19	19	1e-29	5-cos/P2	Cos	terminase9	NA	NA	long_internal_peak	6
+1.233.B.	1	100	6	 Siphoviridae 	 Caudovirales 	140	36823	19	19	1e-29	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.235.O.	1	100	8	 Bacteriophage PA11 	 unclassified dsDNA phages	141	47017	37	31	5e-12	short DTR/T7	DTR	terminase11	NA	NA	shifts_in_coverage	8
+1.236.O.	1	100	1	 Siphoviridae 	 Caudovirales 	142	42646	27	25	7e-75	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	1
+1.237.A.	2	99.9441178419205	4	 Siphoviridae 	 Caudovirales 	143	60097	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.237.B.	1	100	4	 Siphoviridae 	 Caudovirales 	143	60160	6	7	2e-21	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.238.A.	2	97.5867846410918	5	 Podoviridae 	 Caudovirales 	144	70494	38	32	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.238.B.	2	97.5867846410918	5	 Podoviridae 	 Caudovirales 	144	70467	38	32	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.239.O.	1	100	6	 Siphoviridae 	 Caudovirales 	145	38618	19	19	5e-61	headful/Sf6	Headful	terminase5	Headful	headful/Sf6	shifts_in_coverage	6
+1.240.O.	1	100	6	 Siphoviridae 	 Caudovirales 	146	36710	19	19	4e-36	5-cos/P2	Cos	terminase9	NA	NA	long_internal_peak	6
+1.242.O.	1	100	6	 Siphoviridae 	 Caudovirales 	147	36910	19	19	9e-36	5-cos/P2	Cos	terminase9	NA	NA	long_internal_peak	6
+1.243.O.	1	100	1	 Myoviridae 	 Caudovirales 	148	48414	4	4	1e-67	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.244.A.	2	99.4011987155136	3	 Myoviridae 	 Caudovirales 	149	159885	39	33	3e-62	headful/T4	Headful	terminase15	Headful	headful/T4	shifts_in_coverage	2b
+1.245.O.	2	96.4666849310965	5	 Podoviridae 	 Caudovirales 	150	71702	38	32	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.246.O.	1	100	7	 Podoviridae 	 Caudovirales 	151	47133	3	3	4e-67	Cos/lambda	Cos	terminase3	Cos	Cos/lambda	cos_pattern	7
+1.247.A.	2	75.6841958167836	9	 Myoviridae 	 Caudovirales 	152	43896	7	8	7e-36	NoGroup	NoGroup	terminase8	NA	NA	long_internal_peak	9
+1.247.B.	2	75.6841958167836	9	 Myoviridae 	 Caudovirales 	152	43896	7	8	7e-36	NoGroup	NoGroup	terminase8	NA	NA	long_internal_peak	9
+1.248.O.	1	100	1	 Myoviridae 	 Caudovirales 	153	48301	4	4	2e-67	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.249.A.	1	100	15	 Tectivirus	 Tectiviridae	154	10611	40	6	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.249.B.	1	100	15	 Tectivirus	 Tectiviridae	154	10611	40	6	NA	NA	NA	NA	NA	NA	even_coverage	15
+1.250.O.	1	100	4	 Siphoviridae 	 Caudovirales 	155	59981	6	7	3e-20	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.251.O.	1	100	4	 Siphoviridae 	 Caudovirales 	156	59649	6	7	9e-21	headful/Sf6	Headful	terminase1	NA	NA	long_internal_peak	4
+1.253.O.	4	82.2989954439318	8	 Bacteriophage PA11 	 unclassified dsDNA phages	141	47008	37	31	5e-12	short DTR/T7	DTR	terminase11	NA	NA	shifts_in_coverage	8
+1.254.O.	1	100	11	NA	NA	157	32699	28	26	2e-21	headful/933W	Headful	terminase33	NA	NA	short_internal_peak	11
+1.255.O.	3	85.7680405381678	3	 Myoviridae 	 Caudovirales 	149	159885	39	33	3e-62	headful/T4	Headful	terminase15	Headful	headful/T4	long_internal_peak	2b
+1.256.O.	5	76.1060548447153	1	 Myoviridae 	 Caudovirales 	158	48207	4	4	7e-65	headful/Sf6	Headful	terminase7	NA	NA	even_coverage	1a
+1.257.O.	1	100	11	 Bacteriophage PA11 	 unclassified dsDNA phages	108	32371	28	26	9e-21	headful/933W	Headful	terminase33	NA	NA	short_internal_peak	11
+1.259.O.	1	100	16	 Podoviridae 	 Caudovirales 	159	28145	29	6	2e-14	headful/Sf6	Headful	terminase34	NA	NA	shifts_in_coverage	16
+1.261.O.	5	94.8980116425227	5	 Podoviridae 	 Caudovirales 	101	71992	32	27	NA	NA	NA	terminase2	DTR	DTR/N4	short_internal_peak	5
+1.262.O.	1	100	8	 Podoviridae 	 Caudovirales 	160	47635	0	6	4e-111	headful/P22	Headful	terminase32	Headful	headful/P22	short_internal_peak	9
+1.263.A.	1	100	1	 Myoviridae 	 Caudovirales 	161	49640	4	4	2e-64	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.263.B.	1	100	1	 Myoviridae 	 Caudovirales 	161	49640	4	4	2e-64	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.264.O.	1	100	8	 Bacteriophage PA11 	 unclassified dsDNA phages	162	47739	37	6	2e-13	short DTR/T7	DTR	terminase11	NA	NA	even_coverage	8
+1.265.O.	1	100	1	 Siphoviridae 	 Caudovirales 	163	43630	27	25	1e-90	headful/Sf6	Headful	terminase24	NA	NA	shifts_in_coverage	1
+1.266.O.	1	100	6	 Siphoviridae 	 Caudovirales 	164	34788	19	19	1e-36	5-cos/P2	Cos	terminase9	NA	NA	shifts_in_coverage	6
+1.267.O.	17	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59414	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.268.A.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	NA	NA	NA	terminase1	NA	NA	shifts_in_coverage	4
+1.268.B.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.269.O.	17	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	119	59738	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.270.A.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59294	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.270.B.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59294	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.271.A.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.271.B.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.272.O.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	5e-20	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.273.O.	2	97.7434880281943	1	 Myoviridae 	 Caudovirales 	165	48145	4	4	3e-78	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.274.O.	17	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59409	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.275.O.	1	100	9	 Podoviridae 	 Caudovirales 	166	37915	0	6	2e-70	headful/Sf6	Headful	terminase16	NA	NA	shifts_in_coverage	9
+1.276.O.	2	100	1	 Siphoviridae 	 Caudovirales 	167	44334	0	25	7e-14	NoGroup	NoGroup	terminase25	NA	NA	shifts_in_coverage	1
+1.277.A.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.277.B.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	168	59419	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.278.O.	1	100	1	 Myoviridae 	 Caudovirales 	169	49282	4	4	1e-64	headful/Sf6	Headful	terminase7	NA	NA	shifts_in_coverage	1a
+1.280.O.	19	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.281.O.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59297	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.282.A.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	18	59359	13	14	2e-19	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.283.A.	19	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	119	59530	13	14	2e-18	headful/Sf6	Headful	terminase1	NA	NA	long_internal_peak	4
+1.283.B.	19	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	119	59530	13	14	2e-18	headful/Sf6	Headful	terminase1	NA	NA	shifts_in_coverage	4
+1.283.C.	18	91.5044228280174	4	 Siphoviridae 	 Caudovirales 	119	59530	13	14	2e-18	headful/Sf6	Headful	terminase1	NA	NA	even_coverage	4
+1.284.A.	5	98.49214201873	1	 Siphoviridae 	 Caudovirales 	170	45648	15	17	9e-78	headful/933W	Headful	terminase6	Headful	headful/933W	long_internal_peak	1a
+1.285.O.	1	100	4	 Siphoviridae 	 Caudovirales 	171	59437	6	7	3e-16	headful/Sf6	Headful	terminase1	NA	NA	long_internal_peak	4
+1.286.O.	1	100	1	 Myoviridae 	 Caudovirales 	172	49131	4	4	1e-63	headful/Sf6	Headful	terminase7	NA	NA	long_internal_peak	1a
+1.287.O.	5	98.49214201873	1	 Siphoviridae 	 Caudovirales 	170	45562	15	17	2e-87	headful/933W	Headful	terminase6	Headful	headful/933W	long_internal_peak	1a
+1.289.A.	5	98.49214201873	1	 Siphoviridae 	 Caudovirales 	170	44529	15	17	9e-89	headful/933W	Headful	terminase6	Headful	headful/933W	shifts_in_coverage	1a
+1.291.O.	1	100	1	 Siphoviridae 	 Caudovirales 	173	43662	15	17	1e-90	headful/933W	Headful	terminase6	Headful	headful/933W	shifts_in_coverage	1a
+1.293.O.	9	97.5414945000881	8	 Podoviridae 	 Caudovirales 	174	48275	35	29	2e-04	short DTR/T7	DTR	terminase11	NA	NA	short_internal_peak	8
+12G01.O.	1	100	NoGroup	 Siphoviridae 	 Caudovirales 	175	41498	1	1	2e-63	headful/Sf6	Headful	terminase16	NA	NA	even_coverage	1
+2.044.O.	1	100	14	 Myoviridae 	 Caudovirales 	176	45020	2	2	4e-58	3-cos/HK97	Cos	terminase23	NA	NA	shifts_in_coverage	12/14
+2.058.O.	5	92.7816864394229	3	 Myoviridae 	 Caudovirales 	177	101637	41	34	6e-65	5-cos/P2	Cos	terminase4	Cos	3-cos/HK97	cos_pattern	2b
+2.092.O.	35	77.7340949446585	15	 Tectivirus	 Tectiviridae	5	10580	5	5	NA	NA	NA	NA	NA	NA	even_coverage	15
+2.095.A.	1	100	1	 Siphoviridae 	 Caudovirales 	178	44649	33	25	8e-14	NoGroup	NoGroup	terminase25	NA	NA	even_coverage	1
+2.095.B.	2	84.5105139029176	1	 Siphoviridae 	 Caudovirales 	178	44649	33	25	8e-14	NoGroup	NoGroup	terminase25	NA	NA	even_coverage	1
+2.096.O.	2	76.0676111082698	12	 Siphoviridae 	 Caudovirales 	179	44683	16	18	3e-116	Cos/lambda	Cos	terminase26	NA	NA	shifts_in_coverage	12/14
+2.117.O.	15	94.424665518641	13	 Siphoviridae 	 Caudovirales 	70	55795	25	24	NA	NA	NA	terminase29	NA	NA	long_internal_peak	13
+2.130.O.	6	99.0579725945915	5	 Podoviridae 	 Caudovirales 	17	75797	12	13	0	DTR/N4	DTR	terminase2	DTR	DTR/N4	short_internal_peak	5
+2.159.A.	3	99.3813016118617	17	 Myoviridae 	 Caudovirales 	19	31704	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+2.159.B.	3	99.3813016118617	17	 Myoviridae 	 Caudovirales 	19	31617	14	15	0	host ends/Mu	Mu	terminase12	Mu	host ends/Mu	mu_pattern	17
+2.275.O.	7	81.8507679960603	3	 Myoviridae 	 Caudovirales 	180	348911	22	22	1e-71	headful/T4	Headful	terminase15	Headful	headful/T4	shifts_in_coverage	2b
+3.058.O.	8	75.1606785764358	3	 Myoviridae 	 Caudovirales 	177	101642	41	34	1e-64	5-cos/P2	Cos	terminase4	Cos	3-cos/HK97	cos_pattern	2b
