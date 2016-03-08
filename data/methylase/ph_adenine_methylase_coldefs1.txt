@@ -1,0 +1,740 @@
+NVP1231O_15	range	#97A761	phage
+
+NVP1191O_56	range	#97A761	phage
+
+NVP1143O_15	range	#97A761	phage
+
+NVP1246O_49	range	#97A761	phage
+
+NVP1119O_15	range	#97A761	phage
+
+NVP1243O_64	range	#97A761	phage
+
+NVP1149O_67	range	#97A761	phage
+
+NVP1007O_66	range	#97A761	phage
+
+NVP1256O_63	range	#97A761	phage
+
+NVP1177O_69	range	#97A761	phage
+
+NVP1106O_64	range	#97A761	phage
+
+NVP1278O_69	range	#97A761	phage
+
+NVP1115A_66	range	#97A761	phage
+
+NVP1105O_65	range	#97A761	phage
+
+NVP1170O_149	range	#97A761	phage
+
+NVP1063O_164	range	#97A761	phage
+
+NVP1134O_48	range	#97A761	phage
+
+NVP1182O_44	range	#97A761	phage
+
+NVP1263B_64	range	#97A761	phage
+
+NVP1121O_185	range	#97A761	phage
+
+NVP1205O_24	range	#97A761	phage
+
+NVP1005O_55	range	#97A761	phage
+
+NVP1223O_53	range	#97A761	phage
+
+NVP1263A_64	range	#97A761	phage
+
+NVP1104O_75	range	#97A761	phage
+
+NVP1127O_16	range	#97A761	phage
+
+NVP1226O_52	range	#97A761	phage
+
+NVP2058O_118	range	#97A761	phage
+
+NVP1087A_50	range	#97A761	phage
+
+NVP3058O_117	range	#97A761	phage
+
+NVP1060A_49	range	#97A761	phage
+
+NVP1161O_149	range	#97A761	phage
+
+NVP1161O_166	range	#97A761	phage
+
+NVP1173O_71	range	#97A761	phage
+
+NVP1199A_35	range	#97A761	phage
+
+NVP1199A_64	range	#97A761	phage
+
+NVP1086O_51	range	#97A761	phage
+
+NVP1184A_23	range	#97A761	phage
+
+NVP1122A_53	range	#97A761	phage
+
+NVP1286O_67	range	#97A761	phage
+
+NVP1124O_55	range	#97A761	phage
+
+NVP1164O_51	range	#97A761	phage
+
+NVP1122B_53	range	#97A761	phage
+
+NVP1183O_21	range	#97A761	phage
+
+NVP1199B_35	range	#97A761	phage
+
+NVP1199B_64	range	#97A761	phage
+
+NVP1247B_55	range	#97A761	phage
+
+NVP1186O_65	range	#97A761	phage
+
+NVP1029O_66	range	#97A761	phage
+
+NVP1232O_55	range	#97A761	phage
+
+NVP1273O_66	range	#97A761	phage
+
+NVP1248O_67	range	#97A761	phage
+
+NVP1115B_66	range	#97A761	phage
+
+NVP1247A_55	range	#97A761	phage
+
+NVP1185O_30	range	#97A761	phage
+
+NVP1275O_40	range	#97A761	phage
+
+10N.222.46.A6_contig_13_127	range	#9D6188	host
+
+10N.222.46.A6_contig_25_25	range	#9D6188	host
+
+10N.222.46.B1_contig_23_21	range	#9D6188	host
+
+10N.222.46.B6_contig_6_31	range	#9D6188	host
+
+10N.222.46.C2_contig_25_31	range	#9D6188	host
+
+10N.222.46.E1_contig_53_25	range	#9D6188	host
+
+10N.222.46.E12_contig_17_97	range	#9D6188	host
+
+10N.222.46.F12_contig_15_97	range	#9D6188	host
+
+10N.222.48.A2_contig_34_31	range	#9D6188	host
+
+10N.222.49.A5_contig_3_151	range	#9D6188	host
+
+10N.222.49.A8_contig_52_39	range	#9D6188	host
+
+10N.222.49.B11_contig_14_9	range	#9D6188	host
+
+10N.222.49.B7_contig_39_31	range	#9D6188	host
+
+10N.222.49.B8_contig_14_31	range	#9D6188	host
+
+10N.222.49.C7_contig_7_25	range	#9D6188	host
+
+10N.222.49.F8_contig_36_117	range	#9D6188	host
+
+10N.222.51.A12_contig_6_29	range	#9D6188	host
+
+10N.222.51.A4_contig_46_9	range	#9D6188	host
+
+10N.222.51.A7_contig_31_19	range	#9D6188	host
+
+10N.222.51.B10_contig_19_171	range	#9D6188	host
+
+10N.222.51.B4_contig_5_32	range	#9D6188	host
+
+10N.222.51.C2_contig_16_30	range	#9D6188	host
+
+10N.222.51.E3_contig_49_56	range	#9D6188	host
+
+10N.222.51.E4_contig_4_9	range	#9D6188	host
+
+10N.222.51.E5_contig_7_155	range	#9D6188	host
+
+10N.222.51.F8_contig_13_99	range	#9D6188	host
+
+10N.222.51.F9_contig_24_35	range	#9D6188	host
+
+10N.222.52.A11_contig_1_111	range	#9D6188	host
+
+10N.222.52.A7_contig_29_99	range	#9D6188	host
+
+10N.222.52.B12_contig_92_22	range	#9D6188	host
+
+10N.222.52.B2_contig_5_41	range	#9D6188	host
+
+10N.222.52.B8_contig_42_9	range	#9D6188	host
+
+10N.222.52.C10_contig_34_56	range	#9D6188	host
+
+10N.222.52.C2_contig_14_50	range	#9D6188	host
+
+10N.222.52.F11_contig_1_23	range	#9D6188	host
+
+10N.222.52.F3_contig_5_41	range	#9D6188	host
+
+10N.222.54.B6_contig_1_32	range	#9D6188	host
+
+10N.222.54.F10_contig_44_35	range	#9D6188	host
+
+10N.222.54.F11_contig_23_31	range	#9D6188	host
+
+10N.222.54.F7_contig_31_31	range	#9D6188	host
+
+10N.222.55.B3_contig_35_66	range	#9D6188	host
+
+10N.222.55.C12_contig_35_32	range	#9D6188	host
+
+10N.222.55.F9_contig_47_35	range	#9D6188	host
+
+10N.261.45.A1_contig_40_52	range	#9D6188	host
+
+10N.261.45.A1_contig_80_147	range	#9D6188	host
+
+10N.261.45.A10_contig_16_28	range	#9D6188	host
+
+10N.261.45.A2_contig_17_31	range	#9D6188	host
+
+10N.261.45.A6_contig_41_52	range	#9D6188	host
+
+10N.261.45.A6_contig_2_17	range	#9D6188	host
+
+10N.261.45.B10_contig_22_31	range	#9D6188	host
+
+10N.261.45.B2_contig_25_28	range	#9D6188	host
+
+10N.261.45.B7_contig_33_9	range	#9D6188	host
+
+10N.261.45.C3_contig_9_33	range	#9D6188	host
+
+10N.261.45.C6_contig_12_194	range	#9D6188	host
+
+10N.261.45.C7_contig_17_31	range	#9D6188	host
+
+10N.261.45.E11_contig_113_31	range	#9D6188	host
+
+10N.261.45.E12_contig_15_33	range	#9D6188	host
+
+10N.261.45.E2_contig_17_52	range	#9D6188	host
+
+10N.261.45.E3_contig_15_31	range	#9D6188	host
+
+10N.261.45.E8_contig_116_21	range	#9D6188	host
+
+10N.261.45.E9_contig_4486_1	range	#9D6188	host
+
+10N.261.45.E9_contig_1_43	range	#9D6188	host
+
+10N.261.45.E9_contig_886_1	range	#9D6188	host
+
+10N.261.45.F7_contig_21_98	range	#9D6188	host
+
+10N.261.45.F8_contig_12_32	range	#9D6188	host
+
+10N.261.45.F9_contig_17_31	range	#9D6188	host
+
+10N.261.46.A1_contig_22_32	range	#9D6188	host
+
+10N.261.46.B10_contig_4_32	range	#9D6188	host
+
+10N.261.46.B12_contig_2_97	range	#9D6188	host
+
+10N.261.46.B3_contig_2315_1	range	#9D6188	host
+
+10N.261.46.B3_contig_23_97	range	#9D6188	host
+
+10N.261.46.B5_contig_25_31	range	#9D6188	host
+
+10N.261.46.B7_contig_64_36	range	#9D6188	host
+
+10N.261.46.C3_contig_25_9	range	#9D6188	host
+
+10N.261.46.E5_contig_25_32	range	#9D6188	host
+
+10N.261.46.E8_contig_33_31	range	#9D6188	host
+
+10N.261.46.E8_contig_64_17	range	#9D6188	host
+
+10N.261.46.E9_contig_34_99	range	#9D6188	host
+
+10N.261.46.F12_contig_69_148	range	#9D6188	host
+
+10N.261.46.F12_contig_79_31	range	#9D6188	host
+
+10N.261.46.F8_contig_88_100	range	#9D6188	host
+
+10N.261.48.A1_contig_5_32	range	#9D6188	host
+
+10N.261.48.A1_contig_18_49	range	#9D6188	host
+
+10N.261.48.A9_contig_13_31	range	#9D6188	host
+
+10N.261.48.B1_contig_44_44	range	#9D6188	host
+
+10N.261.48.B11_contig_6_99	range	#9D6188	host
+
+10N.261.48.B5_contig_53_32	range	#9D6188	host
+
+10N.261.48.B7_contig_10_31	range	#9D6188	host
+
+10N.261.48.C11_contig_18_31	range	#9D6188	host
+
+10N.261.48.C12_contig_6_31	range	#9D6188	host
+
+10N.261.48.C5_contig_98_41	range	#9D6188	host
+
+10N.261.48.C5_contig_47_111	range	#9D6188	host
+
+10N.261.48.C6_contig_19_151	range	#9D6188	host
+
+10N.261.48.E3_contig_37_29	range	#9D6188	host
+
+10N.261.48.E5_contig_61_31	range	#9D6188	host
+
+10N.261.49.A1_contig_102_32	range	#9D6188	host
+
+10N.261.49.B10_contig_22_100	range	#9D6188	host
+
+10N.261.49.B12_contig_14_97	range	#9D6188	host
+
+10N.261.49.B3_contig_30_32	range	#9D6188	host
+
+10N.261.49.C1_contig_42_61	range	#9D6188	host
+
+10N.261.49.C11_contig_14_32	range	#9D6188	host
+
+10N.261.49.E11_contig_45_147	range	#9D6188	host
+
+10N.261.49.E11_contig_21_31	range	#9D6188	host
+
+10N.261.49.E4_contig_66_31	range	#9D6188	host
+
+10N.261.49.F3_contig_3_43	range	#9D6188	host
+
+10N.261.49.F5_contig_22_28	range	#9D6188	host
+
+10N.261.49.F6_contig_23_31	range	#9D6188	host
+
+10N.261.49.F8_contig_24_31	range	#9D6188	host
+
+10N.261.51.A7_contig_19_10	range	#9D6188	host
+
+10N.261.51.A9_contig_42_31	range	#9D6188	host
+
+10N.261.51.B7_contig_4_9	range	#9D6188	host
+
+10N.261.51.B8_contig_16_108	range	#9D6188	host
+
+10N.261.51.C4_contig_24_30	range	#9D6188	host
+
+10N.261.51.C7_contig_13_97	range	#9D6188	host
+
+10N.261.51.C9_contig_7_98	range	#9D6188	host
+
+10N.261.51.E11_contig_7_31	range	#9D6188	host
+
+10N.261.51.E6_contig_20_29	range	#9D6188	host
+
+10N.261.51.F2_contig_70_9	range	#9D6188	host
+
+10N.261.51.F8_contig_56_98	range	#9D6188	host
+
+10N.261.51.F9_contig_25_31	range	#9D6188	host
+
+10N.261.52.A1_contig_538_4	range	#9D6188	host
+
+10N.261.52.A10_contig_38_9	range	#9D6188	host
+
+10N.261.52.A6_contig_10_98	range	#9D6188	host
+
+10N.261.52.B1_contig_53_36	range	#9D6188	host
+
+10N.261.52.B2_contig_2_97	range	#9D6188	host
+
+10N.261.52.C1_contig_29_29	range	#9D6188	host
+
+10N.261.52.C4_contig_11_31	range	#9D6188	host
+
+10N.261.52.C5_contig_14_99	range	#9D6188	host
+
+10N.261.52.C7_contig_7_97	range	#9D6188	host
+
+10N.261.52.C9_contig_34_20	range	#9D6188	host
+
+10N.261.52.E1_contig_6_31	range	#9D6188	host
+
+10N.261.52.E5_contig_9_31	range	#9D6188	host
+
+10N.261.52.F1_contig_13_31	range	#9D6188	host
+
+10N.261.52.F10_contig_39_30	range	#9D6188	host
+
+10N.261.52.F12_contig_7_139	range	#9D6188	host
+
+10N.261.52.F2_contig_20_94	range	#9D6188	host
+
+10N.261.52.F5_contig_42_57	range	#9D6188	host
+
+10N.261.52.F6_contig_1_30	range	#9D6188	host
+
+10N.261.52.F7_contig_16_31	range	#9D6188	host
+
+10N.261.52.F8_contig_8_29	range	#9D6188	host
+
+10N.261.54.A1_contig_32_10	range	#9D6188	host
+
+10N.261.54.A2_contig_38_31	range	#9D6188	host
+
+10N.261.54.B2_contig_47_43	range	#9D6188	host
+
+10N.261.54.B5_contig_11_102	range	#9D6188	host
+
+10N.261.54.C3_contig_40_35	range	#9D6188	host
+
+10N.261.54.C7_contig_95_37	range	#9D6188	host
+
+10N.261.54.E10_contig_3_19	range	#9D6188	host
+
+10N.261.54.E12_contig_128_13	range	#9D6188	host
+
+10N.261.54.F1_contig_19_31	range	#9D6188	host
+
+10N.261.54.F5_contig_11_2	range	#9D6188	host
+
+10N.261.55.A11_contig_13_31	range	#9D6188	host
+
+10N.261.55.A7_contig_10_69	range	#9D6188	host
+
+10N.261.55.A8_contig_36_33	range	#9D6188	host
+
+10N.261.55.B3_contig_68_25	range	#9D6188	host
+
+10N.261.55.B9_contig_6_97	range	#9D6188	host
+
+10N.261.55.C8_contig_7_98	range	#9D6188	host
+
+10N.261.55.E11_contig_27_32	range	#9D6188	host
+
+10N.261.55.E5_contig_4_31	range	#9D6188	host
+
+10N.261.55.E6_contig_8_31	range	#9D6188	host
+
+10N.261.55.E8_contig_23_13	range	#9D6188	host
+
+10N.261.55.F5_contig_60_9	range	#9D6188	host
+
+10N.261.55.F9_contig_16_34	range	#9D6188	host
+
+10N.286.45.A10_contig_88_15	range	#9D6188	host
+
+10N.286.45.A5_contig_23_31	range	#9D6188	host
+
+10N.286.45.B12_contig_24_31	range	#9D6188	host
+
+10N.286.45.B3_contig_4_38	range	#9D6188	host
+
+10N.286.45.B6_contig_103_52	range	#9D6188	host
+
+10N.286.45.B6_contig_25_17	range	#9D6188	host
+
+10N.286.45.B7_contig_2_99	range	#9D6188	host
+
+10N.286.45.B8_contig_43_19	range	#9D6188	host
+
+10N.286.45.B9_contig_12_97	range	#9D6188	host
+
+10N.286.45.C1_contig_4_97	range	#9D6188	host
+
+10N.286.45.C3_contig_50_19	range	#9D6188	host
+
+10N.286.45.C8_contig_13_97	range	#9D6188	host
+
+10N.286.45.E10_contig_128_4	range	#9D6188	host
+
+10N.286.45.E12_contig_114_1	range	#9D6188	host
+
+10N.286.45.E6_contig_100_19	range	#9D6188	host
+
+10N.286.45.E9_contig_64_19	range	#9D6188	host
+
+10N.286.45.F1_contig_22_11	range	#9D6188	host
+
+10N.286.45.F12_contig_23_32	range	#9D6188	host
+
+10N.286.45.F7_contig_93_31	range	#9D6188	host
+
+10N.286.45.F8_contig_6_52	range	#9D6188	host
+
+10N.286.46.A10_contig_16_31	range	#9D6188	host
+
+10N.286.46.A11_contig_27_51	range	#9D6188	host
+
+10N.286.46.A11_contig_67_31	range	#9D6188	host
+
+10N.286.46.A12_contig_11_12	range	#9D6188	host
+
+10N.286.46.A12_contig_52_3	range	#9D6188	host
+
+10N.286.46.A4_contig_13_13	range	#9D6188	host
+
+10N.286.46.B11_contig_123_6	range	#9D6188	host
+
+10N.286.46.B3_contig_11_31	range	#9D6188	host
+
+10N.286.46.B8_contig_22_31	range	#9D6188	host
+
+10N.286.46.B8_contig_6_26	range	#9D6188	host
+
+10N.286.46.C10_contig_11_126	range	#9D6188	host
+
+10N.286.46.C10_contig_227_13	range	#9D6188	host
+
+10N.286.46.C3_contig_21_29	range	#9D6188	host
+
+10N.286.46.C4_contig_2_37	range	#9D6188	host
+
+10N.286.46.C9_contig_5_32	range	#9D6188	host
+
+10N.286.46.E1_contig_48_29	range	#9D6188	host
+
+10N.286.46.E10_contig_3_32	range	#9D6188	host
+
+10N.286.46.E8_contig_14_31	range	#9D6188	host
+
+10N.286.46.F8_contig_24_97	range	#9D6188	host
+
+10N.286.48.A12_contig_7_97	range	#9D6188	host
+
+10N.286.48.A2_contig_64_19	range	#9D6188	host
+
+10N.286.48.A4_contig_14_31	range	#9D6188	host
+
+10N.286.48.A6_contig_19_91	range	#9D6188	host
+
+10N.286.48.A9_contig_29_86	range	#9D6188	host
+
+10N.286.48.B4_contig_37_103	range	#9D6188	host
+
+10N.286.48.B5_contig_79_50	range	#9D6188	host
+
+10N.286.48.B7_contig_101_37	range	#9D6188	host
+
+10N.286.48.B7_contig_101_38	range	#9D6188	host
+
+10N.286.48.E2_contig_30_31	range	#9D6188	host
+
+10N.286.48.E9_contig_421_2	range	#9D6188	host
+
+10N.286.48.F2_contig_25_4	range	#9D6188	host
+
+10N.286.48.F3_contig_13_29	range	#9D6188	host
+
+10N.286.48.F4_contig_3500_1	range	#9D6188	host
+
+10N.286.48.F4_contig_222_1	range	#9D6188	host
+
+10N.286.49.A12_contig_25_31	range	#9D6188	host
+
+10N.286.49.A5_contig_21_31	range	#9D6188	host
+
+10N.286.49.B1_contig_21_31	range	#9D6188	host
+
+10N.286.49.B11_contig_13_31	range	#9D6188	host
+
+10N.286.49.B3_contig_2_85	range	#9D6188	host
+
+10N.286.49.B4_contig_3151_1	range	#9D6188	host
+
+10N.286.49.B4_contig_4_88	range	#9D6188	host
+
+10N.286.49.B9_contig_31_98	range	#9D6188	host
+
+10N.286.49.C11_contig_568_1	range	#9D6188	host
+
+10N.286.49.C2_contig_21_41	range	#9D6188	host
+
+10N.286.49.C5_contig_14_97	range	#9D6188	host
+
+10N.286.49.E10_contig_32_98	range	#9D6188	host
+
+10N.286.49.E3_contig_20_97	range	#9D6188	host
+
+10N.286.49.E9_contig_29_150	range	#9D6188	host
+
+10N.286.49.F1_contig_4_32	range	#9D6188	host
+
+10N.286.49.F11_contig_6_31	range	#9D6188	host
+
+10N.286.49.F5_contig_45_55	range	#9D6188	host
+
+10N.286.51.A1_contig_27_32	range	#9D6188	host
+
+10N.286.51.A6_contig_54_56	range	#9D6188	host
+
+10N.286.51.A7_contig_30_30	range	#9D6188	host
+
+10N.286.51.A9_contig_7_109	range	#9D6188	host
+
+10N.286.51.A9_contig_41_4	range	#9D6188	host
+
+10N.286.51.B1_contig_22_98	range	#9D6188	host
+
+10N.286.51.B5_contig_41_29	range	#9D6188	host
+
+10N.286.51.B7_contig_28_57	range	#9D6188	host
+
+10N.286.51.B9_contig_21_100	range	#9D6188	host
+
+10N.286.51.C2_contig_59_19	range	#9D6188	host
+
+10N.286.51.E7_contig_8_31	range	#9D6188	host
+
+10N.286.51.F12_contig_37_31	range	#9D6188	host
+
+10N.286.51.F2_contig_6_31	range	#9D6188	host
+
+10N.286.52.B12_contig_580_3	range	#9D6188	host
+
+10N.286.52.B12_contig_581_4	range	#9D6188	host
+
+10N.286.52.B4_contig_28_32	range	#9D6188	host
+
+10N.286.52.B7_contig_31_97	range	#9D6188	host
+
+10N.286.52.B9_contig_13_16	range	#9D6188	host
+
+10N.286.52.C10_contig_34_31	range	#9D6188	host
+
+10N.286.52.C12_contig_58_8	range	#9D6188	host
+
+10N.286.52.C2_contig_18_73	range	#9D6188	host
+
+10N.286.52.C6_contig_44_13	range	#9D6188	host
+
+10N.286.52.E10_contig_8_97	range	#9D6188	host
+
+10N.286.52.E12_contig_600_2	range	#9D6188	host
+
+10N.286.52.E3_contig_157_16	range	#9D6188	host
+
+10N.286.52.F10_contig_26_100	range	#9D6188	host
+
+10N.286.52.F6_contig_25_32	range	#9D6188	host
+
+10N.286.52.F9_contig_38_154	range	#9D6188	host
+
+10N.286.54.A1_contig_22_31	range	#9D6188	host
+
+10N.286.54.A10_contig_38_42	range	#9D6188	host
+
+10N.286.54.A11_contig_9_99	range	#9D6188	host
+
+10N.286.54.A6_contig_27_99	range	#9D6188	host
+
+10N.286.54.A8_contig_20_99	range	#9D6188	host
+
+10N.286.54.B1_contig_13_31	range	#9D6188	host
+
+10N.286.54.B8_contig_3_99	range	#9D6188	host
+
+10N.286.54.C10_contig_122_3	range	#9D6188	host
+
+10N.286.54.C4_contig_701_1	range	#9D6188	host
+
+10N.286.54.C4_contig_784_3	range	#9D6188	host
+
+10N.286.54.C4_contig_648_3	range	#9D6188	host
+
+10N.286.54.C7_contig_18_97	range	#9D6188	host
+
+10N.286.54.C8_contig_21_10	range	#9D6188	host
+
+10N.286.54.E1_contig_16_31	range	#9D6188	host
+
+10N.286.54.E11_contig_90_54	range	#9D6188	host
+
+10N.286.54.E12_contig_45_98	range	#9D6188	host
+
+10N.286.54.E4_contig_21_99	range	#9D6188	host
+
+10N.286.54.E5_contig_1_98	range	#9D6188	host
+
+10N.286.54.E7_contig_24_98	range	#9D6188	host
+
+10N.286.54.E8_contig_1_31	range	#9D6188	host
+
+10N.286.54.F2_contig_10_31	range	#9D6188	host
+
+10N.286.54.F3_contig_54_98	range	#9D6188	host
+
+10N.286.54.F3_contig_12_36	range	#9D6188	host
+
+10N.286.54.F4_contig_52_97	range	#9D6188	host
+
+10N.286.54.F6_contig_16_32	range	#9D6188	host
+
+10N.286.54.F7_contig_51_99	range	#9D6188	host
+
+10N.286.54.F8_contig_24_21	range	#9D6188	host
+
+10N.286.54.F9_contig_104_4	range	#9D6188	host
+
+10N.286.55.A1_contig_15_31	range	#9D6188	host
+
+10N.286.55.A12_contig_7_31	range	#9D6188	host
+
+10N.286.55.A2_contig_28_20	range	#9D6188	host
+
+10N.286.55.A5_contig_20_31	range	#9D6188	host
+
+10N.286.55.B10_contig_13_97	range	#9D6188	host
+
+10N.286.55.B4_contig_15_31	range	#9D6188	host
+
+10N.286.55.B8_contig_6_31	range	#9D6188	host
+
+10N.286.55.C1_contig_78_20	range	#9D6188	host
+
+10N.286.55.C10_contig_30_71	range	#9D6188	host
+
+10N.286.55.C10_contig_21_31	range	#9D6188	host
+
+10N.286.55.C11_contig_27_32	range	#9D6188	host
+
+10N.286.55.C12_contig_19_32	range	#9D6188	host
+
+10N.286.55.C2_contig_49_19	range	#9D6188	host
+
+10N.286.55.C3_contig_4_52	range	#9D6188	host
+
+10N.286.55.C4_contig_41_31	range	#9D6188	host
+
+10N.286.55.C7_contig_15_32	range	#9D6188	host
+
+10N.286.55.E1_contig_11_31	range	#9D6188	host
+
+10N.286.55.E10_contig_14_98	range	#9D6188	host
+
+10N.286.55.E12_contig_9_32	range	#9D6188	host
+
+10N.286.55.E6_contig_10_31	range	#9D6188	host
+
+10N.286.55.E8_contig_1_97	range	#9D6188	host
+
+10N.286.55.E9_contig_58_12	range	#9D6188	host
+
+10N.286.55.F1_contig_4_31	range	#9D6188	host
+
+10N.286.55.F10_contig_21_31	range	#9D6188	host
+
+10N.286.55.F9_contig_33_117	range	#9D6188	host
+

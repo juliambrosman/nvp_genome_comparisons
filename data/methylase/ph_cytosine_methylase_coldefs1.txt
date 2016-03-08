@@ -1,0 +1,372 @@
+NVP1233B_48	range	#97A761	phage
+
+NVP1225O_15	range	#97A761	phage
+
+NVP1194O_75	range	#97A761	phage
+
+NVP1271A_75	range	#97A761	phage
+
+NVP1282A_75	range	#97A761	phage
+
+NVP1196O_75	range	#97A761	phage
+
+NVP1242O_47	range	#97A761	phage
+
+NVP1038O_83	range	#97A761	phage
+
+NVP1281O_75	range	#97A761	phage
+
+NVP1009O_59	range	#97A761	phage
+
+NVP1200O_75	range	#97A761	phage
+
+NVP1277A_75	range	#97A761	phage
+
+NVP1239O_52	range	#97A761	phage
+
+NVP1137O_13	range	#97A761	phage
+
+NVP1055O_45	range	#97A761	phage
+
+NVP1205O_39	range	#97A761	phage
+
+NVP1269O_78	range	#97A761	phage
+
+NVP1132O_50	range	#97A761	phage
+
+NVP1005O_28	range	#97A761	phage
+
+NVP1133O_50	range	#97A761	phage
+
+NVP1104O_83	range	#97A761	phage
+
+NVP1267O_75	range	#97A761	phage
+
+NVP1211A_21	range	#97A761	phage
+
+NVP1211A_24	range	#97A761	phage
+
+NVP1270B_75	range	#97A761	phage
+
+NVP1050O_39	range	#97A761	phage
+
+NVP1251O_83	range	#97A761	phage
+
+NVP1271B_75	range	#97A761	phage
+
+NVP1268B_75	range	#97A761	phage
+
+NVP1091O_63	range	#97A761	phage
+
+NVP1091O_67	range	#97A761	phage
+
+NVP1283C_75	range	#97A761	phage
+
+NVP1033O_81	range	#97A761	phage
+
+NVP1210O_14	range	#97A761	phage
+
+NVP1079O_59	range	#97A761	phage
+
+NVP1046O_81	range	#97A761	phage
+
+NVP1283B_75	range	#97A761	phage
+
+NVP1283A_75	range	#97A761	phage
+
+NVP1274O_75	range	#97A761	phage
+
+NVP1147O_55	range	#97A761	phage
+
+NVP1233A_48	range	#97A761	phage
+
+NVP1148O_64	range	#97A761	phage
+
+NVP1027O_75	range	#97A761	phage
+
+NVP1122A_47	range	#97A761	phage
+
+NVP1049O_39	range	#97A761	phage
+
+NVP1211B_21	range	#97A761	phage
+
+NVP1211B_24	range	#97A761	phage
+
+NVP1268A_75	range	#97A761	phage
+
+NVP1277B_75	range	#97A761	phage
+
+NVP1122B_47	range	#97A761	phage
+
+NVP1183O_22	range	#97A761	phage
+
+NVP1162O_55	range	#97A761	phage
+
+NVP1171O_80	range	#97A761	phage
+
+NVP1272O_75	range	#97A761	phage
+
+NVP1003O_55	range	#97A761	phage
+
+NVP1195O_78	range	#97A761	phage
+
+NVP1270A_75	range	#97A761	phage
+
+NVP1280O_75	range	#97A761	phage
+
+NVP1275O_35	range	#97A761	phage
+
+10N.222.46.A6_contig_34_26	range	#9D6188	host
+
+10N.222.46.B1_contig_70_2	range	#9D6188	host
+
+10N.222.46.B6_contig_2_109	range	#9D6188	host
+
+10N.222.46.C2_contig_22_90	range	#9D6188	host
+
+10N.222.46.E1_contig_30_25	range	#9D6188	host
+
+10N.222.49.B11_contig_18_14	range	#9D6188	host
+
+10N.222.49.B8_contig_2_163	range	#9D6188	host
+
+10N.222.49.B8_contig_6_73	range	#9D6188	host
+
+10N.222.49.C7_contig_34_108	range	#9D6188	host
+
+10N.222.51.A12_contig_2_14	range	#9D6188	host
+
+10N.222.51.A4_contig_52_146	range	#9D6188	host
+
+10N.222.51.A7_contig_69_2	range	#9D6188	host
+
+10N.222.51.A7_contig_41_15	range	#9D6188	host
+
+10N.222.51.A7_contig_46_28	range	#9D6188	host
+
+10N.222.51.B10_contig_6_92	range	#9D6188	host
+
+10N.222.51.E4_contig_43_7	range	#9D6188	host
+
+10N.222.51.E4_contig_48_9	range	#9D6188	host
+
+10N.222.51.F8_contig_19_33	range	#9D6188	host
+
+10N.261.45.A1_contig_60_57	range	#9D6188	host
+
+10N.261.45.A1_contig_23_2	range	#9D6188	host
+
+10N.261.45.A6_contig_4_3	range	#9D6188	host
+
+10N.261.45.A6_contig_6_60	range	#9D6188	host
+
+10N.261.45.C3_contig_29_9	range	#9D6188	host
+
+10N.261.45.C6_contig_48_10	range	#9D6188	host
+
+10N.261.45.C7_contig_6_25	range	#9D6188	host
+
+10N.261.45.C7_contig_84_3	range	#9D6188	host
+
+10N.261.45.E11_contig_33_2	range	#9D6188	host
+
+10N.261.45.E2_contig_9_5	range	#9D6188	host
+
+10N.261.45.E3_contig_1_33	range	#9D6188	host
+
+10N.261.45.E3_contig_22_319	range	#9D6188	host
+
+10N.261.45.E8_contig_81_15	range	#9D6188	host
+
+10N.261.45.E9_contig_6795_1	range	#9D6188	host
+
+10N.261.45.E9_contig_48_26	range	#9D6188	host
+
+10N.261.45.F7_contig_26_8	range	#9D6188	host
+
+10N.261.46.B12_contig_29_49	range	#9D6188	host
+
+10N.261.46.B3_contig_91_2	range	#9D6188	host
+
+10N.261.46.E9_contig_8_724	range	#9D6188	host
+
+10N.261.46.F8_contig_159_8	range	#9D6188	host
+
+10N.261.48.A9_contig_10_211	range	#9D6188	host
+
+10N.261.48.B7_contig_39_32	range	#9D6188	host
+
+10N.261.48.B7_contig_27_105	range	#9D6188	host
+
+10N.261.48.E3_contig_3_9	range	#9D6188	host
+
+10N.261.48.E3_contig_3_13	range	#9D6188	host
+
+10N.261.49.A1_contig_1_69	range	#9D6188	host
+
+10N.261.49.B3_contig_25_7	range	#9D6188	host
+
+10N.261.49.E11_contig_32_11	range	#9D6188	host
+
+10N.261.49.E11_contig_2_2	range	#9D6188	host
+
+10N.261.49.F6_contig_757_1	range	#9D6188	host
+
+10N.261.49.F6_contig_133_1	range	#9D6188	host
+
+10N.261.51.C7_contig_8_664	range	#9D6188	host
+
+10N.261.51.C9_contig_3_50	range	#9D6188	host
+
+10N.261.51.C9_contig_22_112	range	#9D6188	host
+
+10N.261.51.E11_contig_13_44	range	#9D6188	host
+
+10N.261.51.E6_contig_7_14	range	#9D6188	host
+
+10N.261.52.A6_contig_98_13	range	#9D6188	host
+
+10N.261.52.B2_contig_13_57	range	#9D6188	host
+
+10N.261.52.C7_contig_8_31	range	#9D6188	host
+
+10N.261.52.C9_contig_253_2	range	#9D6188	host
+
+10N.261.52.C9_contig_16_39	range	#9D6188	host
+
+10N.261.52.C9_contig_16_40	range	#9D6188	host
+
+10N.261.52.F8_contig_89_10	range	#9D6188	host
+
+10N.261.54.A1_contig_26_40	range	#9D6188	host
+
+10N.261.54.A1_contig_9_51	range	#9D6188	host
+
+10N.261.54.B2_contig_21_46	range	#9D6188	host
+
+10N.261.55.E5_contig_9_252	range	#9D6188	host
+
+10N.261.55.E6_contig_27_2	range	#9D6188	host
+
+10N.261.55.E6_contig_20_109	range	#9D6188	host
+
+10N.261.55.E6_contig_20_110	range	#9D6188	host
+
+10N.261.55.E8_contig_5_49	range	#9D6188	host
+
+10N.261.55.F9_contig_33_58	range	#9D6188	host
+
+10N.286.45.B8_contig_41_57	range	#9D6188	host
+
+10N.286.45.B8_contig_41_56	range	#9D6188	host
+
+10N.286.45.B8_contig_179_2	range	#9D6188	host
+
+10N.286.45.C1_contig_6_87	range	#9D6188	host
+
+10N.286.45.E6_contig_17_21	range	#9D6188	host
+
+10N.286.45.E9_contig_59_57	range	#9D6188	host
+
+10N.286.46.A11_contig_64_5	range	#9D6188	host
+
+10N.286.46.A12_contig_1350_3	range	#9D6188	host
+
+10N.286.46.A4_contig_96_12	range	#9D6188	host
+
+10N.286.46.B11_contig_162_3	range	#9D6188	host
+
+10N.286.46.B8_contig_2_221	range	#9D6188	host
+
+10N.286.46.C3_contig_71_16	range	#9D6188	host
+
+10N.286.46.C4_contig_40_40	range	#9D6188	host
+
+10N.286.46.E1_contig_124_8	range	#9D6188	host
+
+10N.286.46.E10_contig_8_108	range	#9D6188	host
+
+10N.286.46.E10_contig_8_109	range	#9D6188	host
+
+10N.286.46.F8_contig_32_109	range	#9D6188	host
+
+10N.286.48.A2_contig_31_40	range	#9D6188	host
+
+10N.286.48.A2_contig_31_39	range	#9D6188	host
+
+10N.286.48.A2_contig_142_2	range	#9D6188	host
+
+10N.286.48.A9_contig_172_2	range	#9D6188	host
+
+10N.286.48.A9_contig_49_17	range	#9D6188	host
+
+10N.286.48.A9_contig_42_57	range	#9D6188	host
+
+10N.286.48.A9_contig_42_56	range	#9D6188	host
+
+10N.286.48.B4_contig_27_1	range	#9D6188	host
+
+10N.286.48.E9_contig_912_2	range	#9D6188	host
+
+10N.286.49.A5_contig_23_15	range	#9D6188	host
+
+10N.286.49.B3_contig_12_87	range	#9D6188	host
+
+10N.286.49.B3_contig_12_100	range	#9D6188	host
+
+10N.286.49.B4_contig_384_7	range	#9D6188	host
+
+10N.286.49.E10_contig_42_39	range	#9D6188	host
+
+10N.286.49.E9_contig_6_13	range	#9D6188	host
+
+10N.286.49.E9_contig_6_9	range	#9D6188	host
+
+10N.286.49.F1_contig_16_154	range	#9D6188	host
+
+10N.286.49.F5_contig_53_16	range	#9D6188	host
+
+10N.286.51.A7_contig_11_102	range	#9D6188	host
+
+10N.286.51.B7_contig_20_121	range	#9D6188	host
+
+10N.286.51.E7_contig_29_2	range	#9D6188	host
+
+10N.286.51.F2_contig_72_17	range	#9D6188	host
+
+10N.286.52.B12_contig_218_21	range	#9D6188	host
+
+10N.286.52.B12_contig_218_22	range	#9D6188	host
+
+10N.286.52.B9_contig_111_4	range	#9D6188	host
+
+10N.286.52.E3_contig_175_3	range	#9D6188	host
+
+10N.286.52.E3_contig_175_4	range	#9D6188	host
+
+10N.286.52.E3_contig_489_1	range	#9D6188	host
+
+10N.286.52.E3_contig_357_1	range	#9D6188	host
+
+10N.286.52.F6_contig_28_4	range	#9D6188	host
+
+10N.286.54.A10_contig_77_10	range	#9D6188	host
+
+10N.286.54.A10_contig_69_8	range	#9D6188	host
+
+10N.286.54.C10_contig_53_12	range	#9D6188	host
+
+10N.286.54.C10_contig_687_1	range	#9D6188	host
+
+10N.286.55.A2_contig_166_2	range	#9D6188	host
+
+10N.286.55.C1_contig_112_2	range	#9D6188	host
+
+10N.286.55.C12_contig_5_221	range	#9D6188	host
+
+10N.286.55.C2_contig_151_2	range	#9D6188	host
+
+10N.286.55.E6_contig_7_97	range	#9D6188	host
+
+10N.286.55.F9_contig_31_10	range	#9D6188	host
+
